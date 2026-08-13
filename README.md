@@ -29,4 +29,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/raaaj1903/LeetCode_Question/tree/master/0387-first-unique-character-in-a-string) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
