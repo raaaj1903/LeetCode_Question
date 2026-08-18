@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raaaj1903/LeetCode_Question/tree/master/0001-two-sum) |
+| [1470-shuffle-the-array](https://github.com/raaaj1903/LeetCode_Question/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
