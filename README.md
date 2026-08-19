@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raaaj1903/LeetCode_Question/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/raaaj1903/LeetCode_Question/tree/master/0088-merge-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/raaaj1903/LeetCode_Question/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
@@ -34,4 +35,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0009-palindrome-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/raaaj1903/LeetCode_Question/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/raaaj1903/LeetCode_Question/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
