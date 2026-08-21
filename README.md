@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/raaaj1903/LeetCode_Question/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,4 +45,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raaaj1903/LeetCode_Question/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/raaaj1903/LeetCode_Question/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/raaaj1903/LeetCode_Question/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
