@@ -19,6 +19,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raaaj1903/LeetCode_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/raaaj1903/LeetCode_Question/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/raaaj1903/LeetCode_Question/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/raaaj1903/LeetCode_Question/tree/master/0387-first-unique-character-in-a-string) |
 ## Sliding Window
 |  |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raaaj1903/LeetCode_Question/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/raaaj1903/LeetCode_Question/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
