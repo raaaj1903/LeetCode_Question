@@ -7,12 +7,14 @@
 | ------- |
 | [0001-two-sum](https://github.com/raaaj1903/LeetCode_Question/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/raaaj1903/LeetCode_Question/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0268-missing-number) |
 | [1470-shuffle-the-array](https://github.com/raaaj1903/LeetCode_Question/tree/master/1470-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raaaj1903/LeetCode_Question/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raaaj1903/LeetCode_Question/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0268-missing-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/raaaj1903/LeetCode_Question/tree/master/0387-first-unique-character-in-a-string) |
 ## String
 |  |
@@ -38,6 +40,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/raaaj1903/LeetCode_Question/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,12 +50,18 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/raaaj1903/LeetCode_Question/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/raaaj1903/LeetCode_Question/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0268-missing-number) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/raaaj1903/LeetCode_Question/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
