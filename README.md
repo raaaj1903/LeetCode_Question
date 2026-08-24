@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raaaj1903/LeetCode_Question/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/raaaj1903/LeetCode_Question/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/raaaj1903/LeetCode_Question/tree/master/0088-merge-sorted-array) |
 | [0228-summary-ranges](https://github.com/raaaj1903/LeetCode_Question/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0268-missing-number) |
@@ -40,6 +41,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/raaaj1903/LeetCode_Question/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/raaaj1903/LeetCode_Question/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0268-missing-number) |
 ## Two Pointers
