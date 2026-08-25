@@ -11,6 +11,7 @@
 | [0228-summary-ranges](https://github.com/raaaj1903/LeetCode_Question/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0268-missing-number) |
 | [1470-shuffle-the-array](https://github.com/raaaj1903/LeetCode_Question/tree/master/1470-shuffle-the-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/raaaj1903/LeetCode_Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/raaaj1903/LeetCode_Question/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/raaaj1903/LeetCode_Question/tree/master/0387-first-unique-character-in-a-string) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/raaaj1903/LeetCode_Question/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
