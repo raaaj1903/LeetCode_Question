@@ -49,6 +49,7 @@
 | [0066-plus-one](https://github.com/raaaj1903/LeetCode_Question/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/raaaj1903/LeetCode_Question/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,4 +82,16 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raaaj1903/LeetCode_Question/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/raaaj1903/LeetCode_Question/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
